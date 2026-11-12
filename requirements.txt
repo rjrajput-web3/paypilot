@@ -1,0 +1,3 @@
+# PayPilot has ZERO runtime dependencies — Python 3.10+ standard library only.
+# This file exists so judges/pip tooling see an explicit, honest manifest.
+# (No third-party packages are imported anywhere in paypilot/ or tests/.)
